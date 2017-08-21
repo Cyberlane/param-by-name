@@ -1,0 +1,19 @@
+{
+  "name": "param-by-name",
+  "version": "1.0.0",
+  "description": "Get url param by name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyberlane/param-by-name.git"
+  },
+  "author": "Justin Nel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyberlane/param-by-name/issues"
+  },
+  "homepage": "https://github.com/Cyberlane/param-by-name#readme"
+}
