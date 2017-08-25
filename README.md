@@ -1,3 +1,5 @@
+[![Version](http://img.shields.io/npm/v/param-by-name.svg)](https://www.npmjs.org/package/param-by-name)
+
 # param-by-name
 
 Parsing url parameters within the browser can be a pain, so this tries to make it a little easier.
