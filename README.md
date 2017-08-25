@@ -1,4 +1,5 @@
 [![Version](http://img.shields.io/npm/v/param-by-name.svg)](https://www.npmjs.org/package/param-by-name)
+[![npm](https://img.shields.io/npm/dt/param-by-name.svg)](Downloads)
 
 # param-by-name
 
